@@ -17,8 +17,8 @@ developing on macOS Monterey
 ## Demo
 - 網頁好讀: <https://yehwu0224.github.io/react-weather-app/>
 - Chrome/Edge插件:
-    1. 從 GitHub 下載此儲存庫作為 ZIP 檔案。
-    2. 解壓縮該文件，您應該有一個名為「`react-weather-app`」的資料夾。
-    3. 在 Chrome/Edge 中，前往擴充頁面（`chrome://extensions` 或 `edge://extensions`）。
-    4. 點選瀏覽器右上角的切換按鈕啟用開發人員模式。
-    5. 將「chrome」資料夾拖曳到頁面上的任何位置進行匯入（之後不要刪除該資料夾）。
+    1. 從 GitHub 下載此儲存庫作為 ZIP 檔案
+    1. 解壓縮該文件為「`react-weather-app`」
+    1. 在 Chrome/Edge 中，前往擴充頁面（`chrome://extensions` 或 `edge://extensions`）
+    1. 點選瀏覽器右上角的切換按鈕啟用開發人員模式
+    1. 將「chrome」資料夾拖曳到頁面上的任何位置進行匯入（之後不要刪除該資料夾）
