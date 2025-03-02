@@ -1,5 +1,5 @@
 # React weather app 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+This project was built with React.js
 
 ## About
 ![](https://imgur.com/PLEqiZQ.jpg)
